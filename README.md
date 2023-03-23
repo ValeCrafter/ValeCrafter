@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there fellow Developer 👋 </h1>
+<h1 align="center"> Hi there fellow developer 👋 </h1>
 I'm a junior Software Developer who is passionate about contributing to open source projects. Here you'll find a variety of repositories showcasing my programming skills and projects I've worked on. As a fan of open source hardware, I also enjoy building keyboards and have built a few open source keyboards. Take a look around and feel free to reach out if you have any questions or collaboration opportunities!
 
 &nbsp;
