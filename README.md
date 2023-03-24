@@ -13,10 +13,10 @@ Also I am the owner of the AllrounderClan. AllrounderClan is a Discord server wh
 <h2 align="center">GitHub Statistics </h2>
 <div align="center">
   <a>
-    <img align="center" height="180px" src="https://github-readme-stats-valecrafter.vercel.app/api?username=valecrafter&theme=cobalt&show_icons=true&card_width=400px" />
+    <img align="center" height="180px" src="https://github-readme-stats-valecrafter.vercel.app/api?username=valecrafter&theme=cobalt&show_icons=true&card_width=400px&count_private=true" />
   </a>
   <a>
-    <img align="center" height="180px" src="https://github-readme-stats-valecrafter.vercel.app/api/top-langs/?username=valecrafter&theme=cobalt&card_width=370px&layout=compact" />
+    <img align="center" height="180px" src="https://github-readme-stats-valecrafter.vercel.app/api/top-langs/?username=valecrafter&theme=cobalt&card_width=370px&layout=compact&count_private=true" />
   </a>
 </div>
 
